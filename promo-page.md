@@ -8,7 +8,7 @@ snippet: |-
   Pellentesque facilisis non urna a suscipit. Aenean et accumsan lorem. Donec diam ex, egestas at fermentum at, sagittis at diam. Nulla vitae lectus nec nulla faucibus gravida.
 hero_link: '#'
 hero_link_text: Buy now!
-hero_image: https://picsum.photos/id/171/800/1000
+hero_image: https://picsum.photos/id/171/800/1000 #assets/images/file.png
 hero_image_alt: The hero image alt text
 hero_image_ratio: is-4by5
 about_image: https://i.pravatar.cc/400?img=24

@@ -1,14 +1,14 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
+title: Duncan C. Wheeler
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+email: duncan.wheeler@tufts.edu
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  description tbd
 baseurl: ""
 url: "/"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /img/favicon-32x32.png
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
@@ -76,7 +76,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-footer_menu: example_footer_menu
+footer_menu: my_footer_menu
 
 collections:
   products: 
@@ -85,11 +85,11 @@ collections:
     image: https://picsum.photos/id/16/800/600
     show_sidebar: false
 
-social:
-  facebook: https://www.facebook.com/
-  instagram: https://www.instagram.com/
-  threads: https://www.threads.net/
-  tiktok: https://www.tiktok.com/
-  x: https://www.x.com/
-  youtube: https://www.youtube.com/
+#social:
+  #facebook: https://www.facebook.com/
+  #instagram: https://www.instagram.com/
+  #threads: https://www.threads.net/
+  #tiktok: https://www.tiktok.com/
+  #x: https://www.x.com/
+  #youtube: https://www.youtube.com/
   
