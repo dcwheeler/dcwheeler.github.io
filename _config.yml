@@ -56,12 +56,12 @@ sass:
 #google_analytics: UA-code-here
 #cookie_policy: /cookie-policy/
 
-#defaults:
-#  -
-#    scope:
-#      path: ""
-#      type: "pages"
-#    values:
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
 #      show_sidebar: true
 #  -
 #    scope:
