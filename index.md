@@ -1,9 +1,9 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Home
+subtitle: subtitle
 layout: page
 show_sidebar: false
-hero_height: is-smal
+hero_height: is-small
 ---
 
 # Example Section title
