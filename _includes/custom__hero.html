@@ -4,7 +4,7 @@
   {% if page.header.image %}
     <img src="{{ image_path }}" alt="{{ page.header.image_description }}" style="width: 220px; height: auto; border-radius: 8px;">
   {% endif %}
-  <div>
+  <div style="max-width: 700px;">
     {% if page.header.text %}
       <span class="page__hero-caption">{{ page.header.text | markdownify | remove: "<p>" | remove: "</p>" }}</span>
     {% endif %}
