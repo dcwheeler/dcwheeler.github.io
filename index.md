@@ -2,7 +2,7 @@
 layout: splash
 feature_row:
   - image_path: /assets/images/Home_Picture.jpg
-    url: "/research
+    url: "/research"
     btn_label: "Research"
     btn_class: "btn--primary"
   - image_path: /assets/images/Home_Picture.jpg
@@ -10,7 +10,7 @@ feature_row:
     btn_label: "Hobbies"
     btn_class: "btn--primary"
   - image_path: /assets/images/Home_Picture.jpg
-    url: "/notes
+    url: "/notes"
     btn_label: "Notes"
     btn_class: "btn--primary"
 
