@@ -1,0 +1,12 @@
+{% capture image_path %}{{ page.header.image | relative_url }}{% endcapture %}
+
+<div class="page__hero--sideimg" style="display: flex; align-items: center; gap: 2rem; margin-bottom: 2rem;">
+  {% if page.header.image %}
+    <img src="{{ image_path }}" alt="{{ page.header.image_description }}" style="width: 220px; height: auto; border-radius: 8px;">
+  {% endif %}
+  <div>
+    {% if page.header.text %}
+      <span class="page__hero-caption">{{ page.header.text | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+    {% endif %}
+  </div>
+</div>
