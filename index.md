@@ -2,20 +2,17 @@
 layout: splash
 feature_row:
   - image_path: /assets/images/Home_Picture.jpg
-    alt: "alt text 1"
-    title: "title 1"
-    excerpt: "excerpt 1"
-  - image_path: /assets/images/Home_Picture.jpg
-    image_caption: "caption 2"
-    alt: "alt text 2"
-    title: "title 2"
-    excerpt: "excerpt 2"
-    url: "/about"
-    btn_label: "button label"
+    url: "/research
+    btn_label: "Research"
     btn_class: "btn--primary"
   - image_path: /assets/images/Home_Picture.jpg
-    title: "title 3"
-    excerpt: "excerpt 3"
+    url: "/hobbies"
+    btn_label: "Hobbies"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/Home_Picture.jpg
+    url: "/notes
+    btn_label: "Notes"
+    btn_class: "btn--primary"
 
 ---
 
