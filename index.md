@@ -1,7 +1,6 @@
 ---
 layout: splash
-header:
-    overlay_color: "#000"
+title: "Home"
 feature_row_1:
   - image_path: /assets/images/Home_Picture.jpg
     title: "About Me"
