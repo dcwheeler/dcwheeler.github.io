@@ -3,7 +3,7 @@ layout: splash
 title: Duncan C. Wheeler
 excerpt: "Postdoctoral Researcher, Tufts University, Earth and Climate Sciences"
 header:
-  overlay_color: "#08a3f1ff"
+  overlay_color: "#0092ca"
 feature_row_1:
   - image_path: /assets/images/Home_Picture.jpg
     title: "About Me"
