@@ -1,5 +1,6 @@
 ---
 layout: splash
+header:
 feature_row_1:
   - image_path: /assets/images/Home_Picture.jpg
     title: "About Me"
