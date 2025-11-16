@@ -1,7 +1,7 @@
 main:
   - title: "Research"
-    url: /pages/research/
+    url: https://dcwheeler.github.io/research/
   - title: "Hobbies"
-    url: /pages/hobbies/
+    url: https://dcwheeler.github.io/hobbies/
   - title: "Notes"
-    url: /pages/notes/
+    url: https://dcwheeler.github.io/notes/
