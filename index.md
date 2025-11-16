@@ -1,8 +1,9 @@
 ---
 layout: splash
 title: Duncan C. Wheeler
+suptitle: Postdoctoral Researcher, Tufts University
 header:
-  overlay_color: "#000"
+  overlay_color: "#08a3f1ff"
 feature_row_1:
   - image_path: /assets/images/Home_Picture.jpg
     title: "About Me"
