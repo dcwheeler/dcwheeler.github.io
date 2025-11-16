@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: ""
+title: "Overview"
 # excerpt: "Postdoctoral Researcher, Tufts University, Earth and Climate Sciences"
 header:
   overlay_color: "#0092ca"
