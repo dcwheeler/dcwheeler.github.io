@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /pages/AcademicCulture/
+permalink: /AcademicCulture/
 title: "Academic Culture"
 feature_row_top:
 feature_row_1:

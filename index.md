@@ -13,7 +13,7 @@ feature_row_2:
   - image_path: /assets/images/leconte_glacier.jpg
     title: "Research"
     excerpt: "My research focuses on boundary layer dynamics in a range of systems. During my PhD I worked in a shallow estuary in southern California, and currently I am working on ice-ocean interactions in glacial fjords. My work uses novel observational techniques to collect unique data, mixed with theory development and simple numerical models to advance our understanding of boundary layer dynamics in a way that helps us evaluate systems from more easily obtained measurements. I also have strong interests in community engaged research and dedicated a chapter of my PhD dissertation to better understand the competing forces that make actionable science challenging in an academic context."
-    url: "https://dcwheeler.github.io/research/"
+    url: "/research/"
     btn_label: "Read about my projects!"
     btn_class: "btn--primary"
 # feature_row_3:

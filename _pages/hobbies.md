@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /pages/hobbies/
+permalink: /hobbies/
 title: "Hobbies"
 ---
 
