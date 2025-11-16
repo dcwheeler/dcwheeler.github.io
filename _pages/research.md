@@ -19,7 +19,7 @@ feature_row_2:
     btn_class: "btn--primary"
 feature_row_3:
     image_path: /assets/images/Home_Picture.jpg
-    title: "Ice-Ocean Interactions
+    title: "Ice-Ocean Interactions"
     excerpt: "Currently I am working on ice-ocean interactions at tide-water glaciers. I am using data collected from Xeitil Sít (Leconte Glacier) to understand buoyant plume dynamics along vertical ice faces and how those plumes facilitate increased glacier melt rates."
     url: "/IceOceanInteractions"
     btn_label: "Learn More"
