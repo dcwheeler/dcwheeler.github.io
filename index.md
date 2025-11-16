@@ -1,9 +1,10 @@
 ---
 layout: splash
-title: "Overview"
+#title: "Overview"
 # excerpt: "Postdoctoral Researcher, Tufts University, Earth and Climate Sciences"
-header:
-  overlay_color: "#0092ca"
+#header:
+#  overlay_color: "#0092ca"
+feature_row_top:
 feature_row_1:
   - image_path: /assets/images/Home_Picture.jpg
     title: "About Me"
@@ -29,7 +30,7 @@ feature_row_2:
 #    btn_class: "btn--primary"
 
 ---
-
+{% include feature_row id="feature_row_top" type="center" %}
 {% include feature_row id="feature_row_1" type="left" %}
 {% include feature_row id="feature_row_2" type="right" %}
 <!-- {% include feature_row id="feature_row_3" type="left" %}
