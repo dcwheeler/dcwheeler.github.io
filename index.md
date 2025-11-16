@@ -2,7 +2,7 @@
 layout: splash
 title: Duncan C. Wheeler
 header:
-    overlay_color: #31b3e7f3
+  overlay_color: "#000"
 feature_row_1:
   - image_path: /assets/images/Home_Picture.jpg
     title: "About Me"
