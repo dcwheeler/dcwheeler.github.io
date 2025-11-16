@@ -1,7 +1,7 @@
 main:
   - title: "Research"
-    url: /research/
+    url: /pages/research/
   - title: "Hobbies"
-    url: /hobbies/
+    url: /pages/hobbies/
   - title: "Notes"
-    url: /notes/
+    url: /pages/notes/

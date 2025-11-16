@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /IGwaves/
+permalink: /pages/IGwaves/
 title: "Infragravity Waves"
 feature_row_top:
 feature_row_1:

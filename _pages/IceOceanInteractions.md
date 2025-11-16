@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /IceOceanInteractions/
+permalink: /pages/IceOceanInteractions/
 title: "Ice-Ocean Interactions"
 feature_row_top:
 feature_row_1:
